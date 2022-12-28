@@ -1,4 +1,4 @@
-[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif)](https://avinashpathrol.io)
+[![MasterHead](https://raw.githubusercontent.com/sagar-viradiya/sagar-viradiya/master/resources/banner.png)](https://avinashpathrol.io)
 <h1 align="center">Hi 👋, I'm Avinash Pathrol</h1>
 <h3 align="center">A passionate Full stack developer from Canada.</h3>
 
