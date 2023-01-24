@@ -18,7 +18,7 @@
 
 - ⚡ Fun fact **I can learn and start working on a technology within days time!**
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Connect with me: </h3>[Clavis Studio](https://clavisstudio.ca/)
 <p align="left">
 <a href="https://linkedin.com/in/avinash-pathrol-24217a140/" target="blank">
 </a>
